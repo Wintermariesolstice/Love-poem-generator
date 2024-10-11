@@ -54,12 +54,17 @@ form {
 
 .poem {
     font-size: 16px;
+    text-align: left;
     background-color: white;
     padding: 20px;
     line-height: 2;
     border-left: 3px solid darkgrey;
     box-shadow: 0px 4px 30px rgba (39, 33, 65, 0.03);
    
+}
+
+.poem strong {
+    color:blueviolet;
 }
 
 footer {
